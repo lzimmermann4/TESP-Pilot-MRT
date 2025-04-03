@@ -1,4 +1,4 @@
-# Text-based Support for Parents of Suicidal Adolescents (TESP): Code and Documentation of Processing Data from Micro-Randomized Trial
+# Text-Based Support for Parents of Suicidal Adolescents (TESP): Code and Documentation of Processing Data from Micro-Randomized Trial
 
 ## 0. Preliminary Statement  
   

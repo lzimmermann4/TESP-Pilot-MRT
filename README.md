@@ -18,6 +18,6 @@ File | Description
 ------------ | -------------
 [01-Pilot-MRT-Master-Documentation.pdf](https://github.com/lzimmermann4/TESP-Pilot-MRT/blob/main/01-Pilot-MRT-Master-Documentation.pdf) | Serves as master documentation file
 [02-Pilot-MRT-Checks-of-Implemented-Trial-Design.pdf](https://github.com/lzimmermann4/TESP-Pilot-MRT/blob/main/02-Pilot-MRT-Checks-of-Implemented-Trial-Design.pdf) | Details assessments for implementation of trial design
-[03-Pilot-MRT-Main-and-Sensitivity-Analyses.pdf](https://github.com/lzimmermann4/TESP-Pilot-MRT/blob/main/03-Pilot-MRT-Main-and-Sensitivity-Analyses.pdf) | Provides additional details on main and sensitivity analyses
+[03-Pilot-MRT-Main-and-Exploratory-Analyses.pdf](https://github.com/lzimmermann4/TESP-Pilot-MRT/blob/main/03-Pilot-MRT-Main-and-Exploratory-Analyses.pdf) | Provides additional details on main and sensitivity analyses
 [04-Pilot-MRT-Checks-of-Data-Processing.pdf](https://github.com/lzimmermann4/TESP-Pilot-MRT/blob/main/04-Pilot-MRT-Checks-of-Data-Processing.pdf) | Lists the checks performed during data processing
 
